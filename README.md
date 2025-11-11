@@ -9,3 +9,4 @@
 
 
 [cv_federico barraza_prog.pdf](https://github.com/user-attachments/files/23167350/cv_federico.barraza_prog.pdf)
+https://fedebarrazaa.github.io/dev.fedebar/
